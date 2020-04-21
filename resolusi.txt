@@ -1,3 +1,4 @@
 resolusi saya adalah
 1. belajar html, css3, php
 2. menggunakan frmawork php
+3.dalam penambahan tampilan gunakan bootstrap agar lebih match
